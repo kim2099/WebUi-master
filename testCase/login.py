@@ -44,7 +44,7 @@ class login(webDriver, unittest.TestCase):
             myLog.logger().info("预期结果的值是:%s", self.excepted)
             self.assertEqual(islogin,self.excepted, msg="登陆失败")
         #对用户名错误,密码正确的case
-        elif self._testMethodDoc == 'test_login2':
+        elif self._testMethodDoc == 'test_login1':
             time.sleep(2)
             common.Screenshot1()
             #获取实际的结果值
