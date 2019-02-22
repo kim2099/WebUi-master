@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db8f5aaf-72da-4605-a598-281a89387c85" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testCase/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/login.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +24,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testCase/login.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
+            <state relative-caret-position="362">
               <caret line="46" column="48" selection-start-line="46" selection-start-column="48" selection-end-line="46" selection-end-column="48" />
               <folding>
                 <element signature="e#115#126#0" expanded="true" />
@@ -375,8 +376,23 @@
       <workItem from="1548049915848" duration="111000" />
       <workItem from="1550223885611" duration="887000" />
       <workItem from="1550475348772" duration="15281000" />
-      <workItem from="1550630907131" duration="52629000" />
+      <workItem from="1550630907131" duration="52856000" />
     </task>
+    <task id="LOCAL-00001" summary="修改代码测试">
+      <created>1550827841369</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1550827841369</updated>
+    </task>
+    <task id="LOCAL-00002" summary="修改代码测试">
+      <created>1550828013758</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1550828013758</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -394,7 +410,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="156989000" />
+    <option name="totallyTimeSpent" value="157216000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -407,6 +423,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2811159" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -433,6 +450,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改代码测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改代码测试" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/result/image/2018-12-11_16_54_27.png">
@@ -742,7 +763,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/testCase/login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
+        <state relative-caret-position="362">
           <caret line="46" column="48" selection-start-line="46" selection-start-column="48" selection-end-line="46" selection-end-column="48" />
           <folding>
             <element signature="e#115#126#0" expanded="true" />
