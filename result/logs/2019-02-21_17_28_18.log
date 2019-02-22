@@ -1,0 +1,13 @@
+2019-02-21 17:28:18,162 INFO login.test_Login Line:31 测试用例名称:test_login1
+2019-02-21 17:28:18,163 INFO login.test_Login Line:32 测试用例说明:正常登陆的case
+2019-02-21 17:28:20,163 INFO login.test_Login Line:34 use_name:kimliu@iappsasia.com
+2019-02-21 17:28:20,163 INFO login.test_Login Line:35 driver <selenium.webdriver.chrome.webdriver.WebDriver (session="bc7e3137e86a22acd072e13bd1c3e281")>
+2019-02-21 17:28:20,163 INFO loginPage.setUserName Line:8 use_name:driver <selenium.webdriver.chrome.webdriver.WebDriver (session="bc7e3137e86a22acd072e13bd1c3e281")>
+2019-02-21 17:28:41,395 INFO login.test_Login Line:31 测试用例名称:test_login2
+2019-02-21 17:28:41,395 INFO login.test_Login Line:32 测试用例说明:用户名错误,密码正确的case
+2019-02-21 17:28:43,395 INFO login.test_Login Line:34 use_name:zhangzi@newborntown.com
+2019-02-21 17:28:43,395 INFO login.test_Login Line:35 driver <selenium.webdriver.chrome.webdriver.WebDriver (session="ca25b0f16a974029f1fedec39e08573c")>
+2019-02-21 17:28:43,395 INFO loginPage.setUserName Line:8 use_name:driver <selenium.webdriver.chrome.webdriver.WebDriver (session="ca25b0f16a974029f1fedec39e08573c")>
+2019-02-21 17:28:48,576 INFO login.test_Login Line:55 实际结果的值是:Invalid username and/or password.
+2019-02-21 17:28:48,576 INFO login.test_Login Line:56 预期结果的值是:Invalid username and/or password.
+2019-02-21 17:30:09,994 INFO runCase.<module> Line:33 邮件发送成功!

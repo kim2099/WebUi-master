@@ -1,0 +1,7 @@
+2018-12-11 16:57:56,446 INFO search.test_search Line:27 测试用例名称:test_search
+2018-12-11 16:57:56,446 INFO search.test_search Line:28 测试用例说明:查询Corporate name case
+2018-12-11 16:57:56,447 INFO loginPage.setUserName Line:8 use_name:driver <selenium.webdriver.chrome.webdriver.WebDriver (session="18c10e96688787cf8d892145e7fb6057")>
+2018-12-11 16:58:17,945 INFO search.test_search Line:44 实际输出结果:True
+2018-12-11 16:58:17,945 INFO search.test_search Line:45 预期输出结果 Corporate-kim02
+2018-12-11 16:58:18,174 INFO search.test_search Line:51 查询失败 isSearch() missing 1 required positional argument: 'driver'
+2018-12-11 16:58:22,138 INFO runCase.<module> Line:35 邮件发送失败!

@@ -1,0 +1,4 @@
+2018-12-25 14:49:08,939 INFO add_corporate.test_search Line:31 测试用例名称:test_add1
+2018-12-25 14:49:08,940 INFO add_corporate.test_search Line:32 测试用例说明:创建公司
+2018-12-25 14:49:08,940 INFO loginPage.setUserName Line:8 use_name:driver <selenium.webdriver.chrome.webdriver.WebDriver (session="5387890656f5ac04494dd188c92d50fd")>
+2018-12-25 14:50:07,691 INFO runCase.<module> Line:35 邮件发送失败!

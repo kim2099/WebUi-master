@@ -1,0 +1,32 @@
+2018-12-11 16:47:50,068 INFO login.test_Login Line:31 测试用例名称:test_login1
+2018-12-11 16:47:50,069 INFO login.test_Login Line:32 测试用例说明:正常登陆的case
+2018-12-11 16:47:52,095 INFO login.test_Login Line:34 use_name:kimliu@iappsasia.com
+2018-12-11 16:47:52,095 INFO login.test_Login Line:35 driver <selenium.webdriver.chrome.webdriver.WebDriver (session="bb261811108c3f1108a141ec360389d5")>
+2018-12-11 16:47:52,096 INFO loginPage.setUserName Line:8 use_name:driver <selenium.webdriver.chrome.webdriver.WebDriver (session="bb261811108c3f1108a141ec360389d5")>
+2018-12-11 16:48:02,482 INFO login.test_Login Line:44 实际结果的值是:True
+2018-12-11 16:48:02,482 INFO login.test_Login Line:45 预期结果的值是:1
+2018-12-11 16:48:02,873 INFO login.test_Login Line:49 info登录成功....True
+2018-12-11 16:48:03,115 INFO login.test_Login Line:54 登录失败....Message: element not interactable
+  (Session info: chrome=71.0.3578.80)
+  (Driver info: chromedriver=2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2018-12-11 16:48:14,335 INFO login.test_Login Line:31 测试用例名称:test_login2
+2018-12-11 16:48:14,335 INFO login.test_Login Line:32 测试用例说明:用户名错误,密码正确的case
+2018-12-11 16:48:16,335 INFO login.test_Login Line:34 use_name:zhangzi@newborntown.com
+2018-12-11 16:48:16,335 INFO login.test_Login Line:35 driver <selenium.webdriver.chrome.webdriver.WebDriver (session="6f8b004b4aa1f8c2c98fa6355a569f69")>
+2018-12-11 16:48:16,335 INFO loginPage.setUserName Line:8 use_name:driver <selenium.webdriver.chrome.webdriver.WebDriver (session="6f8b004b4aa1f8c2c98fa6355a569f69")>
+2018-12-11 16:48:32,338 INFO login.test_Login Line:31 测试用例名称:test_login3
+2018-12-11 16:48:32,339 INFO login.test_Login Line:32 测试用例说明:用户名正确,密码错误的case
+2018-12-11 16:48:34,339 INFO login.test_Login Line:34 use_name:zhangzichao@newborntown.com
+2018-12-11 16:48:34,339 INFO login.test_Login Line:35 driver <selenium.webdriver.chrome.webdriver.WebDriver (session="551e31d89093e497a8160c8d1d0de185")>
+2018-12-11 16:48:34,339 INFO loginPage.setUserName Line:8 use_name:driver <selenium.webdriver.chrome.webdriver.WebDriver (session="551e31d89093e497a8160c8d1d0de185")>
+2018-12-11 16:48:48,523 INFO search.test_search Line:27 测试用例名称:test_search
+2018-12-11 16:48:48,523 INFO search.test_search Line:28 测试用例说明:查询Corporate name case
+2018-12-11 16:48:48,523 INFO loginPage.setUserName Line:8 use_name:driver <selenium.webdriver.chrome.webdriver.WebDriver (session="0a14c1e39da964c24f52a77bcfd6577a")>
+2018-12-11 16:49:11,026 INFO search.test_search Line:67 实际输出结果:True
+2018-12-11 16:49:11,027 INFO search.test_search Line:68 预期输出结果 Corporate-kim02
+2018-12-11 16:49:11,233 INFO search.test_search Line:74 查询失败 isSearch() missing 1 required positional argument: 'driver'
+2018-12-11 16:49:21,002 INFO search.test_search Line:27 测试用例名称:test_search1
+2018-12-11 16:49:21,003 INFO search.test_search Line:28 测试用例说明:查询Corporate name case
+2018-12-11 16:49:21,003 INFO loginPage.setUserName Line:8 use_name:driver <selenium.webdriver.chrome.webdriver.WebDriver (session="caf3a32bcfa6d71c2b1cf2fb17bad9db")>
+2018-12-11 16:49:41,401 INFO runCase.<module> Line:35 邮件发送失败!

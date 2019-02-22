@@ -1,0 +1,5 @@
+2018-12-10 17:33:39,293 INFO search_corporate_list.test_search Line:27 测试用例名称:test_search
+2018-12-10 17:33:39,293 INFO search_corporate_list.test_search Line:28 测试用例说明:查询Corporate name case
+2018-12-10 17:33:44,293 INFO loginPage.setUserName Line:8 use_name:driver <selenium.webdriver.chrome.webdriver.WebDriver (session="3725db37ba983391018a52f849d606e5")>
+2018-12-10 17:34:08,073 INFO search_corporate_list.test_search Line:41 info登录成功....True
+2018-12-10 17:34:22,788 INFO runCase.<module> Line:35 邮件发送失败!

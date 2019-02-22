@@ -1,0 +1,4 @@
+2018-12-26 16:21:07,565 INFO add_corporate.test_add_corporate Line:31 测试用例名称:test_add
+2018-12-26 16:21:07,565 INFO add_corporate.test_add_corporate Line:32 测试用例说明:创建公司
+2018-12-26 16:21:07,566 INFO loginPage.setUserName Line:8 use_name:driver <selenium.webdriver.chrome.webdriver.WebDriver (session="9bbb3db9a117c8b3677461ac792cad10")>
+2018-12-26 16:21:36,226 INFO add_corporate.test_add_corporate Line:58 添加成功 'str' object is not callable

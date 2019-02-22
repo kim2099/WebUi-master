@@ -1,0 +1,5 @@
+2018-12-25 16:39:35,738 INFO add_corporate.test_add_corporate Line:31 测试用例名称:test_add
+2018-12-25 16:39:35,739 INFO add_corporate.test_add_corporate Line:32 测试用例说明:创建公司
+2018-12-25 16:39:35,739 INFO loginPage.setUserName Line:8 use_name:driver <selenium.webdriver.chrome.webdriver.WebDriver (session="38daf363273eb1f945a3c529abc93c61")>
+2018-12-25 16:40:03,778 INFO add_corporate.test_add_corporate Line:58 添加成功 'WebElement' object has no attribute 'getText'
+2018-12-25 16:40:07,317 INFO runCase.<module> Line:33 邮件发送成功!

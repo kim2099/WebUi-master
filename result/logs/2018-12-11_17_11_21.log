@@ -1,0 +1,15 @@
+2018-12-11 17:11:21,892 INFO search.test_search Line:27 测试用例名称:test_search1
+2018-12-11 17:11:21,893 INFO search.test_search Line:28 测试用例说明:查询Corporate name case
+2018-12-11 17:11:21,893 INFO loginPage.setUserName Line:8 use_name:driver <selenium.webdriver.chrome.webdriver.WebDriver (session="124cf4444bdb8cadc4474b464ee631e1")>
+2018-12-11 17:11:43,154 INFO search.test_search Line:44 实际输出结果:True
+2018-12-11 17:11:43,154 INFO search.test_search Line:45 预期输出结果 Corporate-kim02
+2018-12-11 17:11:43,460 INFO search.test_search Line:51 查询失败 True != 'Corporate-kim02'
+2018-12-11 17:11:53,052 INFO search.test_search Line:27 测试用例名称:test_search2
+2018-12-11 17:11:53,053 INFO search.test_search Line:28 测试用例说明:查询Corporate name case
+2018-12-11 17:11:53,053 INFO loginPage.setUserName Line:8 use_name:driver <selenium.webdriver.chrome.webdriver.WebDriver (session="4214732228a3b30608332edf6539b3a4")>
+2018-12-11 17:12:09,065 ERROR common.isElementExist Line:32 元素查找出错Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div/div/table/tbody/tr[1]/td[3]"}
+  (Session info: chrome=71.0.3578.80)
+  (Driver info: chromedriver=2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2018-12-11 17:12:09,294 INFO search.test_search Line:57 查询成功 False != 'Corporate-kim021'
+2018-12-11 17:12:14,353 INFO runCase.<module> Line:35 邮件发送失败!

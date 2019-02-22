@@ -1,0 +1,23 @@
+2019-02-19 13:05:46,159 INFO login.test_Login Line:31 测试用例名称:test_login1
+2019-02-19 13:05:46,160 INFO login.test_Login Line:32 测试用例说明:正常登陆的case
+2019-02-19 13:05:48,160 INFO login.test_Login Line:34 use_name:kimliu@iappsasia.com
+2019-02-19 13:05:48,160 INFO login.test_Login Line:35 driver <selenium.webdriver.chrome.webdriver.WebDriver (session="35ad87812aaf940c48d33731042f769a")>
+2019-02-19 13:05:48,160 INFO loginPage.setUserName Line:8 use_name:driver <selenium.webdriver.chrome.webdriver.WebDriver (session="35ad87812aaf940c48d33731042f769a")>
+2019-02-19 13:06:03,486 INFO login.test_Login Line:44 实际结果的值是:True
+2019-02-19 13:06:03,486 INFO login.test_Login Line:45 预期结果的值是:1
+2019-02-19 13:06:03,823 INFO login.test_Login Line:49 info登录成功....True
+2019-02-19 13:06:04,066 INFO login.test_Login Line:54 登录失败....Message: element not interactable
+  (Session info: chrome=72.0.3626.109)
+  (Driver info: chromedriver=2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2019-02-19 13:06:13,262 INFO login.test_Login Line:31 测试用例名称:test_login2
+2019-02-19 13:06:13,262 INFO login.test_Login Line:32 测试用例说明:用户名错误,密码正确的case
+2019-02-19 13:06:15,263 INFO login.test_Login Line:34 use_name:zhangzi@newborntown.com
+2019-02-19 13:06:15,263 INFO login.test_Login Line:35 driver <selenium.webdriver.chrome.webdriver.WebDriver (session="ccbbd1f3d0ba03463662c889d927ec2f")>
+2019-02-19 13:06:15,263 INFO loginPage.setUserName Line:8 use_name:driver <selenium.webdriver.chrome.webdriver.WebDriver (session="ccbbd1f3d0ba03463662c889d927ec2f")>
+2019-02-19 13:06:30,831 INFO login.test_Login Line:31 测试用例名称:test_login3
+2019-02-19 13:06:30,832 INFO login.test_Login Line:32 测试用例说明:用户名正确,密码错误的case
+2019-02-19 13:06:32,832 INFO login.test_Login Line:34 use_name:zhangzichao@newborntown.com
+2019-02-19 13:06:32,832 INFO login.test_Login Line:35 driver <selenium.webdriver.chrome.webdriver.WebDriver (session="db9ea46c93c64eec1761b978ee8e322d")>
+2019-02-19 13:06:32,832 INFO loginPage.setUserName Line:8 use_name:driver <selenium.webdriver.chrome.webdriver.WebDriver (session="db9ea46c93c64eec1761b978ee8e322d")>
+2019-02-19 13:06:44,706 INFO runCase.<module> Line:33 邮件发送成功!

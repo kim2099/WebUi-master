@@ -1,0 +1,4 @@
+2019-02-20 18:35:00,654 INFO add_corporate.test_add_corporate Line:31 测试用例名称:test_add
+2019-02-20 18:35:00,654 INFO add_corporate.test_add_corporate Line:32 测试用例说明:创建公司
+2019-02-20 18:35:00,654 INFO loginPage.setUserName Line:8 use_name:driver <selenium.webdriver.chrome.webdriver.WebDriver (session="a9ab5f759d68884968ecb1870eceba72")>
+2019-02-20 18:35:36,722 INFO runCase.<module> Line:33 邮件发送成功!

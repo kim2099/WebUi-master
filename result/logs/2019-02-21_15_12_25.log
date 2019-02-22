@@ -1,0 +1,6 @@
+2019-02-21 15:12:25,160 INFO add_corporate.test_add_corporate Line:31 测试用例名称:test_add
+2019-02-21 15:12:25,160 INFO add_corporate.test_add_corporate Line:32 测试用例说明:创建公司
+2019-02-21 15:12:25,161 INFO loginPage.setUserName Line:8 use_name:driver <selenium.webdriver.chrome.webdriver.WebDriver (session="96fa6015277036540f25825eb3e8980e")>
+2019-02-21 15:12:52,050 INFO add_corporate.test_add_corporate Line:50 实际输出结果:Corporate account successfully created
+2019-02-21 15:12:52,050 INFO add_corporate.test_add_corporate Line:51 预期输出结果:Corporate account successfully created
+2019-02-21 15:13:35,178 INFO runCase.<module> Line:33 邮件发送成功!
